@@ -19,12 +19,13 @@ The dataset used in this project contains tour package details, which include al
 📸 Project Highlights: <br>
 💬The most popular package - Basic <br>
 💬Less duration of pitch leads to more sales - [5-15 mins] with 3-4 follow-ups <br>
-💬Most popular customer segment - Citi tier - 1 
-	                                age group - 30-50
-	                                designation - executive 
-                                	Gender - male
-                                	Marital status - married 
-                                	Occupation - salaried and small business owners
+💬Most popular customer segment - 
+- Citi tier - 1
+- age group - 30-50
+- designation - executive
+- Gender - male
+- Marital status - married
+- Occupation - salaried and small business owners
 
 📊 Tools Used: <br>
 ✅Power BI – Data visualization & dashboard creation. <br>
